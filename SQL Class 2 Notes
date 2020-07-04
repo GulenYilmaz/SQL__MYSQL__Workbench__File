@@ -1,0 +1,16 @@
+SQL Class 2
+
+What is a query? 
+Query is a request to a specific set of data to get information. 
+
+Select --> it is used to list the contents of a table from a database. 
+
+Where clause --> is used to set a condition to get a specific data from a table. 
+
+* --> means all info. 
+
+Distinct keyword --> is used to eliminate the duplicates from the specific column. 
+
+
+
+
